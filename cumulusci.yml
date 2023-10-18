@@ -1,0 +1,28 @@
+minimum_cumulusci_version: '3.78.0'
+project:
+    name: Flow-Actions
+    package:
+        name: Flow-Actions
+        api_version: '55.0'
+    git:
+        default_branch: 'main'
+        prefix_feature: 'feature/'
+        prefix_beta: 'beta/'
+        prefix_release: 'release/'
+    source_format: sfdx
+
+tasks:
+    robot:
+        options:
+            suites: robot/Flow-Actions/tests
+            options:
+                outputdir: robot/Flow-Actions/results
+
+    robot_testdoc:
+        options:
+            path: robot/Flow-Actions/tests
+            output: robot/Flow-Actions/doc/Flow-Actions_tests.html
+
+    run_tests:
+        options:
+            required_org_code_coverage_percent: 75
