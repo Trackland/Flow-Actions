@@ -1,1 +1,20 @@
-{"packageDirectories": [{"path": "force-app", "default": true}], "namespace": null, "sourceApiVersion": "55.0"}
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "versionName": "ver 0.3",
+      "versionNumber": "0.3.0.NEXT",
+      "versionDescription": "",
+      "package": "TL_Flow_Actions"
+    }
+  ],
+  "namespace": null,
+  "sourceApiVersion": "55.0",
+  "packageAliases": {
+    "TL_Flow_Actions": "0HoRQ00000000Mb0AI",
+    "TL_Flow_Actions@0.1.0-1": "04tRQ0000000CnZYAU",
+    "TL_Flow_Actions@0.2.0-2": "04tRQ0000000W1VYAU",
+    "TL_Flow_Actions@0.3.0-2": "04tRQ0000000WHdYAM"
+  }
+}
