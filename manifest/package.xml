@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>TL_Datetime_format</members>
-        <members>TL_Datetime_Tests</members>
-        <members>TL_Log</members>
+        <members>TL_SlackCall</members>
+        <members>TL_SlackCall_Tests</members>
         <name>ApexClass</name>
     </types>
     <version>58.0</version>
