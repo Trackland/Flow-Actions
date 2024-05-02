@@ -3,8 +3,8 @@
     {
       "path": "force-app",
       "default": true,
-      "versionName": "ver 0.4",
-      "versionNumber": "0.4.1.NEXT",
+      "versionName": "ver 0.41",
+      "versionNumber": "0.41.0.NEXT",
       "versionDescription": "",
       "package": "TL_Flow_Actions"
     }
@@ -17,6 +17,7 @@
     "TL_Flow_Actions@0.2.0-2": "04tRQ0000000W1VYAU",
     "TL_Flow_Actions@0.3.0-2": "04tRQ0000000WHdYAM",
     "TL_Flow_Actions@0.4.0-1": "04tRQ00000014mLYAQ",
-    "TL_Flow_Actions@0.4.1-1": "04tRQ0000001Ji9YAE"
+    "TL_Flow_Actions@0.4.0-2": "04tRQ0000001J73YAE",
+    "TL_Flow_Actions@0.41.0-1": "04tRQ0000001JAHYA2"
   }
 }
